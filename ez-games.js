@@ -1,5 +1,5 @@
 const db = require('quick.db')
-let {speed , getpoints} = require('./src/games')
+let {speed , getpoints} = require('game.js')
 module.exports = {
 speed: async function(user, guild, boticon , botname) {
 let data = await speed(user, guild, boticon , botname)
