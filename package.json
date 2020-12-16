@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkBoy-js/ez-games.js.git"
+    "url": "git+https://github.com/58873/ez-games.js.git"
   },
   "keywords": [
     "games",
     "discord.js",
     "ez-games"
   ],
-  "author": "darkboy <you@example.com> (http://darkboy.me)",
+  "author": "mohammad <you@example.com> (http://darkboy.me)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DarkBoy-js/ez-games.js/issues"
+    "url": "https://github.com/58873/ez-games.js/issues"
   },
-  "homepage": "https://github.com/DarkBoy-js/ez-games.js#readme",
+  "homepage": "https://github.com/58873/ez-games.js#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
     "nodemon": "^2.0.6",
